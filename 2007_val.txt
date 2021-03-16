@@ -1,0 +1,4 @@
+F:\3_SignatureDetect/VOC2007/JPEGImages/019.jpg
+F:\3_SignatureDetect/VOC2007/JPEGImages/026.jpg
+F:\3_SignatureDetect/VOC2007/JPEGImages/052.jpg
+F:\3_SignatureDetect/VOC2007/JPEGImages/089.jpg
