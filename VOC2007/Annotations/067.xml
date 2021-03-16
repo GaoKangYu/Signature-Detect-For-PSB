@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>JPEGImages</folder>
+<filename>067.jpg</filename>
+<path>F:\3_signature detect\VOC2007\JPEGImages\067.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>2400</width>
+    <height>3200</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>signature</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1908</xmin>
+        <ymin>1616</ymin>
+        <xmax>2280</xmax>
+        <ymax>2071</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>signature</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>513</xmin>
+        <ymin>1634</ymin>
+        <xmax>819</xmax>
+        <ymax>2017</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>seal</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>411</xmin>
+        <ymin>2245</ymin>
+        <xmax>1238</xmax>
+        <ymax>3095</ymax>
+    </bndbox>
+</object>
+</annotation>

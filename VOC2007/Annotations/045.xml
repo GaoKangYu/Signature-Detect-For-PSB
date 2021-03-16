@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>JPEGImages</folder>
+<filename>045.jpg</filename>
+<path>F:\3_signature detect\VOC2007\JPEGImages\045.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>768</width>
+    <height>1024</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>seal</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>291</xmin>
+        <ymin>829</ymin>
+        <xmax>453</xmax>
+        <ymax>1001</ymax>
+    </bndbox>
+</object>
+</annotation>
