@@ -1,5 +1,7 @@
 # Signature-Detect-For-PSB
 “指纹检测”项目
+## TBD
+- [ ] English version README
 ## 背景/需求
 -   检出文件中的指纹与印章，建立客户端演示系统展示结果。
 -   本项目包含可执行演示系统和模型训练部分配置文件
